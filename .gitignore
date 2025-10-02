@@ -5,3 +5,4 @@ images/
 *.tar.gz
 representations/
 batchCommand*
+.ipynb_checkpoints/
